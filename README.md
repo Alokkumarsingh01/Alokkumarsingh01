@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alok Kumar Singh
+# Hi 👋, I'm Archit Kumar Singh
 
 ## 🚀 Aspiring DevOps Engineer
 
@@ -30,13 +30,13 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername)
+https://github.com/Alokkumarsingh01
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 your-email@gmail.com
+- 📧 alokkumar3142ak@gmail.com
 
 ---
 ⭐ Keep Learning | Keep Building | Keep Automating
