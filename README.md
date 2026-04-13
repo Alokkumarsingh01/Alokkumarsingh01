@@ -30,13 +30,14 @@
 
 ## 📊 GitHub Stats
 
-https://github.com/Alokkumarsingh01
+- 🐙 GitHub: https://github.com/Alokkumarsingh01
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 alokkumar3142ak@gmail.com
-
+- 📧 Email id: alokkumar3142ak@gmail.com
+- 🌐 Portfolio: https://architdev.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/archit-kumar-singh-857a052a3/
 ---
 ⭐ Keep Learning | Keep Building | Keep Automating
