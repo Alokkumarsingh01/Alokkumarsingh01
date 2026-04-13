@@ -1,6 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Docker+|+AWS+|+CI/CD;Automation+Enthusiast)
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Archit+Kumar+Singh)
 
 ## 🚀 Aspiring DevOps Engineer
