@@ -1,6 +1,4 @@
-<h1 align="center" style="color:red;">
-  Hi 👋, I'm Archit Kumar Singh
-</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Archit+Kumar+Singh)
 
 ## 🚀 Aspiring DevOps Engineer
 
