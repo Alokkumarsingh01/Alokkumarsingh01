@@ -1,4 +1,6 @@
-# Hi 👋, I'm Archit Kumar Singh
+<h1 align="center" style="color:red;">
+  Hi 👋, I'm Archit Kumar Singh
+</h1>
 
 ## 🚀 Aspiring DevOps Engineer
 
